@@ -1,3 +1,8 @@
+# eBPF Packet Filter — Accuknox Assignment
+
+## Demo Video
+▶️ [Watch on YouTube](https://youtu.be/6WFmuQZQIUc)
+
 eBPF Packet Filter — Accuknox Assignment
 A Linux kernel-level packet filtering solution built with eBPF/XDP to drop TCP packets on configurable ports, with per-process filtering support.
 ---
