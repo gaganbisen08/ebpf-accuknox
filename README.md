@@ -6,13 +6,21 @@ Demo Video
 
 ---
 Table of Contents
+
 Overview
+
 Problem 1 — Drop TCP Packets on a Port
+
 Problem 2 — Drop Packets for a Specific Process
+
 Problem 3 — Go Code Explanation
+
 Project Structure
+
 Prerequisites
+
 Installation
+
 ---
 Overview
 This project demonstrates the use of core Linux kernel primitives — eBPF, XDP, and cgroup hooks — to perform high-performance packet filtering at the kernel level.
