@@ -1,7 +1,8 @@
 eBPF Packet Filter — Accuknox Assignment
 Demo Video
-▶️ Watch on YouTube
 ---
+▶️ Watch on YouTube
+
 Table of Contents
 Overview
 Problem 1 — Drop TCP Packets on a Port
@@ -57,7 +58,9 @@ nc -v 127.0.0.1 4041  # allowed — connects ✅
 Problem 2
 Drop All Traffic for a Process Except Port 4040
 ## Demo Video
+
 ▶️ [Watch on YouTube](https://youtu.be/j5LyH7vfGd8)
+
 Uses cgroup_skb eBPF hooks on the root cgroup. Intercepts all egress packets and drops everything except the configured allowed port.
 Architecture
 ```
