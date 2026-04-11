@@ -2,7 +2,7 @@ eBPF Packet Filter — Accuknox Assignment
 
 Demo Video
 ---
-▶️ Watch on YouTube
+▶️ [Watch on YouTube](https://youtu.be/6WFmuQZQIUc?si=IYK_OQLiHB6jwAaj)
 
 Table of Contents
 Overview
